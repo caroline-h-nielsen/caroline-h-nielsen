@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cn498@drexel.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am autistic and am high on the autism spectrum, so apologies in advance if I say something rude by accident. Understanding social cues is a constant work in progress. 
+
+Here is a link to the [Library Carpentry Topics](https://github.com/topics/library-carpentry) page.
 -->
